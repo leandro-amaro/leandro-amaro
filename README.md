@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3c197a3e-fc49-4104-a5ed-cf7f56f6b8a9" alt="gif" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">A Systems Analysis and Development student, focusing on back-end development.</h3>
 
