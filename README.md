@@ -43,9 +43,15 @@
 
 <br>
 
+### Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-amaro&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=leandro-amaro&show_icons=true&locale=en" alt="GitHub Stats" height="160"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro-amaro" alt="Streak Stats" height="160"/>
+  <a href="https://github.com/leandro-amaro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-amaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-amaro&layout=compact&theme=dark"/>
+  </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandro-amaro&theme=dark"/>
 </div>
